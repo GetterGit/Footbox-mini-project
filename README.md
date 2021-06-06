@@ -1,4 +1,4 @@
-# Sota
+# Footbox
 
 ### Footbox is a branch project to create an app for football scouts/analysts to track the last performance of players in their longlist and prioritise who to re-watch first. 
 
