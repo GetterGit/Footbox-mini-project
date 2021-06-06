@@ -10,6 +10,6 @@ The following top-level commands are written in python:
 2) If a player instance already exists in the db added by another user - copy the stats to the new player instance
 3) Update the last performance stats of players in the db when they finish their game 
 
-retrieve.py - connects to the api and retrieves raw stats of required players
-spreadsheet_parse.py - turns the raw data into structured stats and puts them into the database
-spreadsheet_update.py - updates the database records at request
+- retrieve.py - connects to the api and retrieves raw stats of required players
+- spreadsheet_parse.py - turns the raw data into structured stats and puts them into the database
+- spreadsheet_update.py - updates the database records at request
